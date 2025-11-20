@@ -1,1 +1,5 @@
-{}
+{
+  "name": "Nova",
+  "author": "MrEquin",
+  "requires": ["kitty"]
+}
